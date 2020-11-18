@@ -1,4 +1,4 @@
-baseurl = "https://amemas.github.io/blog"
+baseurl = "https://amemas.github.io"
 languageCode = "ja"
 publishDir = "docs"
 title = "飴マスブログ"
