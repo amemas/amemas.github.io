@@ -2,22 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>飴マスブログ</title>
-    <link>https://amemas.github.io/</link>
+    <link>https://amemas.github.io/blog/</link>
     <description>Recent content on 飴マスブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2020 amemas blog</copyright>
-    <lastBuildDate>Sat, 14 Nov 2020 21:59:52 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 00:41:03 +0900</lastBuildDate>
     
-	<atom:link href="https://amemas.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amemas.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>プラチナスターツアーBlack★Party で2500位以内をとりたい</title>
+      <link>https://amemas.github.io/blog/post/2020_11_18/</link>
+      <pubDate>Wed, 18 Nov 2020 00:41:03 +0900</pubDate>
+      
+      <guid>https://amemas.github.io/blog/post/2020_11_18/</guid>
+      <description>来ました、ホラー系イベント…！
+ミリシタはしっかりホラーをやってくれるところが大好き、ホラー系イベントは絶対走る飴雨Pです。
+ 　2週間ほど前の内容になってしまいますが、せっかく記録をとったので備忘録的な形で書き記しておきます。
+なお、この記事は実際にプレイした楽曲を全て記載していますので非常に長く読みづらくなっていると思います。今まさにイベントを走ってらっしゃる方にはおすすめできない記事となっています。
+イベントが落ち着いたらまたお越しください。
+※画像の中で「スタミナ」と表記している部分がありますが、正しくは「元気」です。
+ #結果 2400位付近を狙っていたんですが、意外と走ってしまった。
+でも正直イベントが終わって、2500位に入れてないんじゃないかとヒヤヒヤしてたので一安心です。
+#初期装備 　前回走ったイベントが今年の8月上旬に開催された「プラチナスターチューン〜BORN ON DREAM!〜」なので、そこから3ヶ月くらいでこれくらいのアイテムが溜まってました。
+#実際に走ってみた
+プレイ曲数、難易度、曲名、その他の情報をメモしています。
+太字の曲名はイベント曲で、赤字になっている曲は5倍が確定したときのイベント曲となっています。
+「確定以外で×5.0倍ってこれくらいの確率で出るのか〜」的な見方をしてもらえると良いかと思います。
+##10/20（1日目） 9曲目をプレイしてるときに「次イベント走るときの参考に曲のプレイ数とかメモしておけばいいじゃん」って思ったので8曲目から上の情報がいろいろ曖昧です。プレイ数は消費した元気から逆算しました。
+この日は30曲プレイ。
+ 消費アイテム
+ スパドリ20（-20個）   ##10/21（2日目）
+ イベントPt：7976Pt （0時時点）
+イベントPtランキング：2982位 （0時時点）
+獲得アイテム
+ スパドリ20（+4個） スパドリ30（+3個） 感謝のマカロン[Fairy]（+1個） ジュエル（+325個）   2日目です。
+この日の0時時点でイベントポイントは7976Pt、イベントポイントランキングは2982位でした。
+そして千鶴さんの誕生日ですね。めでたい🎉
+あと私事ですが、PランクがSSになりました。めでたい🎉 この日は1日目よりも少し多く曲をプレイしたくらいで、特に記載することはありません。
+ 消費アイテム
+ スパドリ20（-35個）   ##10/22（3日目）
+ イベントPt：17496Pt （0時時点）
+イベントPtランキング：2934位 （0時時点）
+獲得アイテム
+ スパドリ10（+1個） スパドリ20（+3個） ジュエル（+330個）   レベルがあがって元気最大値も増えました。スパドリMAXとかジュエルを使った時に影響が出るので嬉しい限りです。
+プレイ曲数も日に日に増えていきます。</description>
+    </item>
+    
+    <item>
       <title>はじめまして、ブログはじめました</title>
-      <link>https://amemas.github.io/post/2020_11_14/</link>
+      <link>https://amemas.github.io/blog/post/2020_11_14/</link>
       <pubDate>Sat, 14 Nov 2020 21:59:52 +0900</pubDate>
       
-      <guid>https://amemas.github.io/post/2020_11_14/</guid>
+      <guid>https://amemas.github.io/blog/post/2020_11_14/</guid>
       <description>美世さんお誕生日おめでとう！
 これが言いたいがために今日ブログを開設しました。
 このブログでは主にアイマスに関することを書いていけたら良いなって思ってます。
@@ -28,10 +67,10 @@
     
     <item>
       <title>飴マスブログ</title>
-      <link>https://amemas.github.io/about/</link>
+      <link>https://amemas.github.io/blog/about/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amemas.github.io/about/</guid>
+      <guid>https://amemas.github.io/blog/about/</guid>
       <description>【あめる】
 腐る・傷むの意
 腐敗しまっても問題がないような記事を書いていくつもりです。 魚のアメマスとは関係ありません。
@@ -40,10 +79,10 @@
     
     <item>
       <title>About Hugo</title>
-      <link>https://amemas.github.io/pages/about/</link>
+      <link>https://amemas.github.io/blog/pages/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://amemas.github.io/pages/about/</guid>
+      <guid>https://amemas.github.io/blog/pages/about/</guid>
       <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
 It makes use of a variety of open source projects including:
  https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
