@@ -1,5 +1,6 @@
 baseurl = "https://amemas.github.io/blog"
 languageCode = "ja"
+publishDir = "docs"
 title = "飴マスブログ"
 theme = "hugo-theme-yuki"
 author = "飴雨"
