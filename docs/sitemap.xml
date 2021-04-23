@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://amemas.github.io/post/2020_12_31/</loc>
+    <lastmod>2020-11-19T00:50:54+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://amemas.github.io/post/2020_11_18/</loc>
     <lastmod>2020-11-18T00:41:03+09:00</lastmod>
   </url>
@@ -48,11 +53,15 @@
   </url>
   
   <url>
-    <loc>https://amemas.github.io/categories/</loc>
+    <loc>https://amemas.github.io/10/</loc>
   </url>
   
   <url>
     <loc>https://amemas.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://amemas.github.io/-2020-amemas-blog/</loc>
   </url>
   
 </urlset>

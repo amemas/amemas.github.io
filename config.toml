@@ -5,6 +5,9 @@ title = "飴マスブログ"
 theme = "hugo-theme-yuki"
 author = "飴雨"
 
+[taxonomies]
+tag = "tags"
+
 # Copyright notice. This will display on the footer.
 copyright = "© 2020 amemas blog"
 paginate = 10
@@ -40,10 +43,15 @@ paginate = 10
 
 [[menu.nav]]
     name = "BLOG"
-    url = "/post"
+    url = "/post/"
     weight = 2
 
 [[menu.nav]]
     name = "ABOUT"
-    url = "/about"
+    url = "/about/"
     weight = 3
+    
+[[menu.nav]]
+    name = "TAGS"
+    url = "/tags/"
+    weight = 4
