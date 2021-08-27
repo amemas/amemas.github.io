@@ -26,7 +26,7 @@ paginate = 10
   # The path to your images
   favicon = "images/logo.png"
   logo = "images/logo.png"
-  avatar = ""
+  avatar = "images/avatar.jpg"
   displayImg = "images/display.png"
 
   # This will display on the index page
